@@ -1,5 +1,5 @@
 import requests
-import time,webbrowser,pyfiglet
+import time
 
 B="\033[1;30m" # Black
 L = "\033[1;95m"  #ارجواني
@@ -12,8 +12,6 @@ C="\033[1;36m" # Cyan
 W="\033[1;37m" # White
 E = "\033[0;90m" #رمادي
 
-ajaj = pyfiglet.figlet_format('  M R E X 7  ')
-print(R+ajaj)
 
 print(G+"""
    This Tool For Hack with Link
